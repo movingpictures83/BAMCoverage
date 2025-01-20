@@ -1,0 +1,2 @@
+Prefix plugins/BAMCoverage/example/
+Plugin BAMCoverage inputfile alignment_sorted.bam outputfile ./
