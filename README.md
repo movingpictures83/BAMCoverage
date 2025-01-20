@@ -1,0 +1,2 @@
+# BAMCoverage
+Compute coverage
